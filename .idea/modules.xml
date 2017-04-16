@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/abstractFactoryPattern/abstractFactoryPattern.iml" filepath="$PROJECT_DIR$/abstractFactoryPattern/abstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builderPattern/builderPattern.iml" filepath="$PROJECT_DIR$/builderPattern/builderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commandPattern/commandPattern.iml" filepath="$PROJECT_DIR$/commandPattern/commandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryPattern/factoryPattern.iml" filepath="$PROJECT_DIR$/factoryPattern/factoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediationPattern/mediationPattern.iml" filepath="$PROJECT_DIR$/mediationPattern/mediationPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxyPattern/proxyPattern.iml" filepath="$PROJECT_DIR$/proxyPattern/proxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonPattern/singletonPattern.iml" filepath="$PROJECT_DIR$/singletonPattern/singletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templatePattern/templatePattern.iml" filepath="$PROJECT_DIR$/templatePattern/templatePattern.iml" />
     </modules>
   </component>
 </project>
