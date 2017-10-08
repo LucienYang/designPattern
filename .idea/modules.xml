@@ -5,12 +5,19 @@
       <module fileurl="file://$PROJECT_DIR$/abstractFactoryPattern/abstractFactoryPattern.iml" filepath="$PROJECT_DIR$/abstractFactoryPattern/abstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builderPattern/builderPattern.iml" filepath="$PROJECT_DIR$/builderPattern/builderPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandPattern/commandPattern.iml" filepath="$PROJECT_DIR$/commandPattern/commandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" filepath="$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryPattern/factoryPattern.iml" filepath="$PROJECT_DIR$/factoryPattern/factoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iteratorPattern/iteratorPattern.iml" filepath="$PROJECT_DIR$/iteratorPattern/iteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediationPattern/mediationPattern.iml" filepath="$PROJECT_DIR$/mediationPattern/mediationPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observerPattern/observerPattern.iml" filepath="$PROJECT_DIR$/observerPattern/observerPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxyPattern/proxyPattern.iml" filepath="$PROJECT_DIR$/proxyPattern/proxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/responsibilityChain/responsibilityChain.iml" filepath="$PROJECT_DIR$/responsibilityChain/responsibilityChain.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonPattern/singletonPattern.iml" filepath="$PROJECT_DIR$/singletonPattern/singletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statePattern/statePattern.iml" filepath="$PROJECT_DIR$/statePattern/statePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategyPattern/strategyPattern.iml" filepath="$PROJECT_DIR$/strategyPattern/strategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/templatePattern/templatePattern.iml" filepath="$PROJECT_DIR$/templatePattern/templatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitorPattern/visitorPattern.iml" filepath="$PROJECT_DIR$/visitorPattern/visitorPattern.iml" />
     </modules>
   </component>
 </project>
